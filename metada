@@ -1,0 +1,21 @@
+{
+  "name": "Stellar Phoenix",
+  "symbol": "SPHX",
+  "description": "Le memecoin officiel Stellar Phoenix.",
+  "image": "https://via.placeholder.com/512",
+  "attributes": [
+    {
+      "trait_type": "Community",
+      "value": "True"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://via.placeholder.com/512",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
